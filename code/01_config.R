@@ -1,5 +1,5 @@
 
-pacman::p_load(tidyverse, janitor, feather)
+pacman::p_load(tidyverse, janitor, feather, readxl)
 
 files <- list.files("data/raw", pattern = ".csv|.xlsx")
 
