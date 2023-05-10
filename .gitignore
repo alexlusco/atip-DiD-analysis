@@ -1,3 +1,6 @@
+# ignore feather in process -- too large
+/data/processed/*.feather
+
 # ignore files in raw -- too large
 /data/raw/
 
