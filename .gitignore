@@ -1,3 +1,6 @@
+# ignore files in raw -- too large
+/data/raw/
+
 # History files
 .Rhistory
 .Rapp.history
